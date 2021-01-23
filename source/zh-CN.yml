@@ -1,0 +1,119 @@
+- origin: React
+  translation: 无需翻译
+  category: 技术术语
+  expression: 需根据上下文判断，用作动词时，应翻译为“（对…）作出反应”
+  editors:
+    - miyaliu666
+- origin: multi-threading
+  translation: 多线程
+  category: 技术术语
+  expression: ''
+  editors:
+    - miyaliu666
+- origin: Block
+  translation: 限制访问
+  category: 俚语
+  expression: 'a.k.a. GFW、屏蔽、禁止访问'
+  editors:
+    - S1ngS1ng
+    - miyaliu666
+- origin: function
+  translation: 函数
+  category: 技术术语
+  expression: 需根据上下文判断，有时翻译为“功能”
+  editors:
+    - miyaliu666
+- origin: Element
+  translation: 元素
+  reference: 'https://developer.mozilla.org/zh-CN/docs/Glossary/%E5%85%83%E7%B4%A0'
+  category: 技术术语
+  expression: '写在代码中的叫做 Tag（标签），展示在页面上叫做 Element（元素）'
+  editors:
+    - S1ngS1ng
+    - miyaliu666
+- origin: 'Enclosed content'
+  translation: 内容
+  reference: 'https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/Getting_started'
+  category: 技术术语
+  expression: 'HTML 开始标签和结束标签之间的 content'
+  editors:
+    - S1ngS1ng
+    - miyaliu666
+- origin: Focus
+  translation: 聚焦
+  reference: 'https://developer.mozilla.org/zh-CN/docs/Web/HTML/Global_attributes/tabindex'
+  category: 技术术语
+  expression: '用 Tab 键选中的元素，或通过鼠标指针点击选中的输入框、按钮等'
+  editors:
+    - S1ngS1ng
+    - miyaliu666
+- origin: 'Web Fonts'
+  translation: 'Web 字体'
+  reference: 'https://developer.mozilla.org/zh-CN/docs/Learn/CSS/%E4%B8%BA%E6%96%87%E6%9C%AC%E6%B7%BB%E5%8A%A0%E6%A0%B7%E5%BC%8F/Web_%E5%AD%97%E4%BD%93'
+  category: 技术术语
+  expression: 网页中加载的字体
+  editors:
+    - S1ngS1ng
+    - miyaliu666
+- origin: 'Font Family'
+  translation: 字体族名
+  reference: 'https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-family'
+  category: 技术术语
+  expression: ''
+  editors:
+    - S1ngS1ng
+    - miyaliu666
+- origin: Viewport
+  translation: 视口
+  reference: 'https://developer.mozilla.org/zh-CN/docs/Glossary/Viewport'
+  category: 技术术语
+  expression: 展示在浏览器窗口中的网页
+  editors:
+    - S1ngS1ng
+    - miyaliu666
+- origin: 'Form Control/Widget'
+  translation: 表单部件
+  reference: 'https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Forms/The_native_form_widgets'
+  category: 技术术语
+  expression: 网页中加载的字体
+  editors:
+    - S1ngS1ng
+    - miyaliu666
+- origin: 'Closing Tag'
+  translation: 结束标签
+  reference: 'https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/Getting_started'
+  category: 技术术语
+  expression: ''
+  editors:
+    - S1ngS1ng
+    - miyaliu666
+- origin: 'Items (in array)'
+  translation: （数组）元素
+  category: 技术术语
+  expression: 数组中的“项目”即为元素
+  editors:
+    - S1ngS1ng
+    - miyaliu666
+- origin: 'Bracket notation'
+  translation: 方括号表示法
+  reference: 'https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Property_Accessors'
+  category: 技术术语
+  expression: 用于访问对象属性
+  editors:
+    - S1ngS1ng
+    - miyaliu666
+- origin: 'Spread syntax'
+  translation: 展开语法
+  reference: 'https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Spread_syntax'
+  category: 技术术语
+  expression: ''
+  editors:
+    - S1ngS1ng
+    - miyaliu666
+- origin: 'Spread operator'
+  translation: 展开操作符
+  category: 技术术语
+  expression: ''
+  editors:
+    - S1ngS1ng
+    - miyaliu666
